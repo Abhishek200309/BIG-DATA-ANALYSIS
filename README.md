@@ -71,3 +71,6 @@ The HTML report contains:
  - Rating distribution
 
  - Most popular genres
+
+
+<img width="1542" height="839" alt="Image" src="https://github.com/user-attachments/assets/20515bc7-62bf-443e-ab59-a1d4c5dc0aac" />
