@@ -1,17 +1,5 @@
 # BIG-DATA-ANALYSIS
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: ABHISHEK VICTOR RAJ MANESH
-
-*INTERN ID*: CT12DY2725
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 12 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 # Description
 
 This project demonstrates the use of PySpark for analyzing a large-scale movie ratings dataset. With the rapid growth of data in modern applications, traditional tools like Excel or pandas often struggle to handle millions of rows efficiently. PySpark, built on top of Apache Spark, allows distributed data processing, enabling fast and scalable analysis of big datasets.
